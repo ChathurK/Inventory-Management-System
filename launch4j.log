@@ -1,0 +1,34 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\kumar\OneDrive\Desktop\Java\IMS\IMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\kumar\OneDrive\Desktop\Java\IMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Users\kumar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\kumar\AppData\Local\Programs\Python\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\msys64\mingw64\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Users\kumar\AppData\Local\Microsoft\WindowsApps;C:\Users\kumar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kumar\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Users\kumar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\kumar\AppData\Local\Programs\Python\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\msys64\mingw64\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Users\kumar\AppData\Local\Microsoft\WindowsApps;C:\Users\kumar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kumar\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Users\kumar\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\kumar\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\msys64\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Users\kumar\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\kumar\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\kumar\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "C:\Users\kumar\OneDrive\Desktop\Java\IMS\IMS.exe"
+Args length:	55/32768 chars
+Exit code:	0
