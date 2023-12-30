@@ -32,6 +32,7 @@ public class editItem extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Edit Item");
+        setLocationByPlatform(true);
         setResizable(false);
 
         jLabel1.setFont(new java.awt.Font("Castellar", 1, 18)); // NOI18N

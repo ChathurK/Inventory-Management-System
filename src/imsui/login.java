@@ -25,6 +25,7 @@ public class login extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Login Window");
         setBackground(new java.awt.Color(30, 119, 114));
+        setLocationByPlatform(true);
 
         jLabel1.setFont(new java.awt.Font("Castellar", 1, 36)); // NOI18N
         jLabel1.setText("Inventory Management System");

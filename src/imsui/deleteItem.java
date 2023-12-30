@@ -22,6 +22,7 @@ public class deleteItem extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Delete Item");
+        setLocationByPlatform(true);
         setResizable(false);
 
         jLabel1.setFont(new java.awt.Font("Castellar", 1, 18)); // NOI18N

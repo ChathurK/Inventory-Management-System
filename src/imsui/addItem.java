@@ -32,6 +32,7 @@ public class addItem extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Add Item");
+        setLocationByPlatform(true);
         setPreferredSize(new java.awt.Dimension(430, 430));
         setResizable(false);
 

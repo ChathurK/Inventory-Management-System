@@ -36,6 +36,7 @@ public class InventoryManagementGUI extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Inventory Management System");
+        setLocationByPlatform(true);
         setPreferredSize(new java.awt.Dimension(1000, 630));
         setResizable(false);
         setSize(new java.awt.Dimension(0, 0));
